@@ -1,0 +1,189 @@
+.sidebar{
+  position:fixed;
+  left: 0px;
+  bottom: 0;
+  top:55px;
+  background-color: white;
+  width: 80px;
+  display:flex;
+  flex-direction: column;
+  border-right-width:1px ;
+  border-right-color: rgb(222, 220, 220);
+  border-right-style: solid;
+  z-index: 2;
+ 
+}
+.home{
+  height: 30px;
+  display:flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  margin-left: 19px;
+  
+}
+
+.home-button{
+  margin-top: 30px;
+  height: 90px;
+  width: 100%;
+  margin-bottom:0px;
+  align-items: center;
+  display: flex;
+  border: none;
+  background-color: white;
+  transition: background-color .2s;
+  position: relative;
+}
+.home-button:hover{
+  background-color: rgb(237, 237, 237);
+}
+
+.home-create{
+  position: absolute;
+  bottom: 3px;
+  right: 20px;
+  left: 20px;
+  
+  
+}
+.explore{
+  height: 28px;
+  display:flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  margin-left: 20px;
+ 
+}
+.explore-button{
+  margin-top: 30px;
+  margin-top: 0px;
+  height: 90px;
+  width: 100%;
+  margin-bottom:0px;
+  align-items: center;
+  display: flex;
+  border: none;
+  background-color: white;
+  transition: background-color .2s;
+  position: relative;
+}
+.explore-button:hover{
+  background-color: rgb(237, 237, 237);}
+
+.subscriptions{
+  height: 30px;
+  display:flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  margin-left: 19px;
+ 
+}
+.subscriptions-button{
+  margin-top: 0px;
+  height: 90px;
+  width: 100%;
+  margin-bottom:0px;
+  align-items: center;
+  display: flex;
+  position: relative;
+  border: none;
+  background-color: white;
+  transition: background-color .2s;
+}
+.subscriptions-button:hover{
+  background-color: rgb(237, 237, 237);}
+  .subscription-create{
+    position: absolute;
+    bottom: 2px;
+    right: 20px;
+    left: 6px;
+
+  }
+
+  .originals{
+  height: 30px;
+  display:flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  margin-left: 19px;
+ 
+}
+.originals-button{
+  margin-top: 0px;
+  height: 90px;
+  width: 100%;
+  margin-bottom:0px;
+  align-items: center;
+  display: flex;
+  border: none;
+  background-color: white;
+  transition: background-color .2s;
+  position: relative;
+}
+
+.originals-button:hover{
+  background-color: rgb(238, 238, 238);
+}
+
+.youtube-music{
+  height: 30px;
+  display:flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  margin-left: 19px;
+}
+.youtube-music-button{
+  margin-top: 0px;
+  height: 90px;
+  width: 100%;
+  margin-bottom:0px;
+  align-items: center;
+  display: flex;
+  border: none;
+  background-color: white;
+  transition: background-color .2s;
+  position: relative;
+}
+.youtube-music-button:hover{
+  background-color: rgb(237, 237, 237);
+}
+.youtube-music-create{
+  position: absolute;
+  bottom: -2px;
+  right: 20px;
+  left: 17px;
+  top: 62px;px
+
+}
+  
+
+  .library{
+  height: 30px;
+  display:flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  margin-left: 19px;
+}
+.library-button{
+  margin-top: 0px;
+  height: 90px;
+  width: 100%;
+  margin-bottom:0px;
+  align-items: center;
+  display: flex;
+  border: none;
+  background-color: white;
+  transition: background-color .2s;
+  position: relative;
+}
+.library-button:hover{
+  background-color: rgb(237, 237, 237);
+}
+
+
