@@ -57,7 +57,7 @@
   row-gap:40px;
  
 }
-.first-time-1
+.first-time
 {
   background-color: black;
   color:aliceblue;
@@ -69,61 +69,6 @@
   height: 20px;
  width: 40px;
 
-}
-.first-time-2{
-  background-color: black;
-  color:aliceblue;
-  position: absolute;
-  right:10px;
-  bottom:10px;
-  z-index: 2;
- border-radius: 2px;
-  height: 20px;
- width: 40px
-}
-.first-time-3{
-  background-color: black;
-  color:aliceblue;
-  position: absolute;
-  right:10px;
-  bottom:10px;
-  z-index: 2;
- border-radius: 2px;
-  height: 20px;
- width: 40px
-}
-.first-time-4{
-  background-color: black;
-  color:aliceblue;
-  position: absolute;
-  right:10px;
-  bottom:10px;
-  z-index: 2;
- border-radius: 2px;
-  height: 20px;
- width: 40px
-}
-.first-time-5{
-  background-color: black;
-  color:aliceblue;
-  position: absolute;
-  right:10px;
-  bottom:10px;
-  z-index: 2;
- border-radius: 2px;
-  height: 20px;
- width: 40px
-}
-.first-time-6{
-  background-color: black;
-  color:aliceblue;
-  position: absolute;
-  right:10px;
-  bottom:10px;
-  z-index: 2;
- border-radius: 2px;
-  height: 20px;
- width: 40px
 }
 .notification-no{
   position:relative
